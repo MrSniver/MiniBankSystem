@@ -9,6 +9,7 @@ Mini System Bankowy to aplikacja konsolowa umożliwiająca podstawową obsługę
 ## Dane logowania i konta testowe
 
 | Login | Hasło | Numer Konta Bankowego |
+|-----------|-----------|-----------|
 | JohnDoe15    | JDoe25    | PL09109010140000000123456789    |
 | JaneD90    | D9Jane    | PL45916841290740172176509724    |
 
