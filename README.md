@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Mini System Bankowy to aplikacja konsolowa umożliwiająca podstawową obsługę kont bankowych. Projekt został podzielony na logiczne moduły odpowiedzialne za konkretne obszary działania systemu, co poprawia czytelność kodu
+Mini System Bankowy to aplikacja konsolowa umożliwiająca podstawową obsługę kont bankowych. Projekt został podzielony na logiczne moduły odpowiedzialne za konkretne obszary działania systemu
 
 ---
 
